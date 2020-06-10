@@ -1,0 +1,472 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Esso\AndroidStudioProjects\DevBytes-starter\app\src\main\AndroidManifest.xml:18:1-42:12
+INJECTED from C:\Users\Esso\AndroidStudioProjects\DevBytes-starter\app\src\main\AndroidManifest.xml:18:1-42:12
+INJECTED from C:\Users\Esso\AndroidStudioProjects\DevBytes-starter\app\src\main\AndroidManifest.xml:18:1-42:12
+INJECTED from C:\Users\Esso\AndroidStudioProjects\DevBytes-starter\app\src\main\AndroidManifest.xml:18:1-42:12
+MERGED from [androidx.databinding:databinding-adapters:3.4.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\f303c5c71259b708ea947317898b7553\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:3.4.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\3140de367bb39ffc9403597e75eae80b\AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.navigation:navigation-ui-ktx:1.0.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\5ee6d5506c5bc6a437814c4395049850\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-ui:1.0.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\ed5081088c1c260d35d7cde9554c6726\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\3a8578458692a351e4e12714f1bbff62\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\00a4736446d917eaabb819a596314438\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\baa1bce10082e76bdcf9fc111850a4a9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.0.2] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\fa37ab5b92cc443668fdd66563c6ebed\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\5ed775b105d594399221bd53cd9ad4fc\AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.navigation:navigation-fragment-ktx:1.0.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\53632fabe40f393f9664514da9ea680e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.work:work-runtime-ktx:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\7d112e5cd87c344d2bd5175adf768d66\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.work:work-runtime:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\50160411cdd7d86ad07b28bb38f7a89e\AndroidManifest.xml:17:1-123:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0-alpha01] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\81e5e9b8dd24308d450ad4d6bec77cbf\AndroidManifest.xml:17:1-25:12
+MERGED from [com.jakewharton.timber:timber:4.7.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\40b987524c16720d569f20821adb14c8\AndroidManifest.xml:2:1-9:12
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\12b7888e0677359cf45404e4a2e479fd\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.room:room-runtime:2.1.0-alpha06] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\87b4ab456b64d29c35eb3556f9927789\AndroidManifest.xml:17:1-28:12
+MERGED from [android.arch.navigation:navigation-fragment:1.0.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\574945e36111b8f05791306780096da1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\3820c6f1f25332bd00d6af4740b5cbe9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\e4dc37f1288569cbea4891beb1454deb\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\66848805e477cc519e3551aa92a2005d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\08b2b9fbba00fcf90b75ed4b95fa5f8e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-runtime-ktx:1.0.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\145139f8fbc08a7ae166052ecb500683\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-runtime:1.0.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\8b924087a1c4ab8ba37affc93a6b934b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\7adf5df5b94ee01e50b3244cfed6b37b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\e60e97b7970a7d45a253e613dbb148b3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\f47e9f51d57027c0368e4de480e4cb52\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\18738a30137560283a730cfe93279911\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\5ba6bc773637027a51231cc5d28a8fcf\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\a4c3c95d93ff4cb8d9e71bafc4cdc8ad\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\7d8d2f778e27c4071c1019e3033fa9f6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\e9de7e899e27b2ad7abe3d5e23aa6e7d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\f1696d8afc1d2f557d143a95f91328a0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\3f85075d45c61cca17f846bb2987bd2a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\608ce771105e6e0f34251032f7f9b679\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\cfe5e1993f49c434ed3aa6cb48d022b0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-common-ktx:1.0.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\6c4c6a97806a7da69e92de33f49a2d78\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-common:1.0.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\afa454075b336fd14fdb4e9eb0138a70\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.2] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\eb15588ce890ecb6c9399a13d2e137a2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0-alpha01] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\885de5a821175b1529c730a05a51f1fa\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0-alpha01] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\257663e02b55794aad9d58e6565dfe50\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0-alpha01] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\a7a58c8bf74c13bebf70ca8faf8c9f26\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\19072bcfa679512a1683c05e87a17005\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\573de0b4f077e27e867f45f8bad656dc\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\9a006cea70397e85e430a6a7b69703a0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0-alpha01] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\d36e4496278b896815ad8fe7047ffc68\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0-alpha01] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\c0f55894b3c9816009432b9ea5beae12\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0-beta01] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\6a3bb9727ee4c8d5d2684a8297a6b80d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0-alpha01] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\b5c2cc72b4c7ec4d15df99860c4ef35d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\4bd62f1fd958f2263dea1da97d4ae470\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\16764b6ec73d44905464e53152d0d783\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\d58df7885f837375957181b320c4cd79\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\34625bfaa4ec2d383f24d3396e1b645c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\91d6d05445d23bdfe96b458945dca174\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\32776048f653bd6cefcfdfe5f1f2f973\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\437cfc999f52d3d41c26bfa6c88d3a39\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Esso\AndroidStudioProjects\DevBytes-starter\app\src\main\AndroidManifest.xml:18:1-42:12
+INJECTED from C:\Users\Esso\AndroidStudioProjects\DevBytes-starter\app\src\main\AndroidManifest.xml:18:1-42:12
+INJECTED from C:\Users\Esso\AndroidStudioProjects\DevBytes-starter\app\src\main\AndroidManifest.xml:18:1-42:12
+	package
+		ADDED from C:\Users\Esso\AndroidStudioProjects\DevBytes-starter\app\src\main\AndroidManifest.xml:20:5-48
+		INJECTED from C:\Users\Esso\AndroidStudioProjects\DevBytes-starter\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Esso\AndroidStudioProjects\DevBytes-starter\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Esso\AndroidStudioProjects\DevBytes-starter\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Esso\AndroidStudioProjects\DevBytes-starter\app\src\main\AndroidManifest.xml:18:1-42:12
+		INJECTED from C:\Users\Esso\AndroidStudioProjects\DevBytes-starter\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Esso\AndroidStudioProjects\DevBytes-starter\app\src\main\AndroidManifest.xml:19:5-51
+	android:versionCode
+		INJECTED from C:\Users\Esso\AndroidStudioProjects\DevBytes-starter\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Esso\AndroidStudioProjects\DevBytes-starter\app\src\main\AndroidManifest.xml:18:1-42:12
+		INJECTED from C:\Users\Esso\AndroidStudioProjects\DevBytes-starter\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Esso\AndroidStudioProjects\DevBytes-starter\app\src\main\AndroidManifest.xml:18:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Esso\AndroidStudioProjects\DevBytes-starter\app\src\main\AndroidManifest.xml:22:5-67
+	android:name
+		ADDED from C:\Users\Esso\AndroidStudioProjects\DevBytes-starter\app\src\main\AndroidManifest.xml:22:22-64
+application
+ADDED from C:\Users\Esso\AndroidStudioProjects\DevBytes-starter\app\src\main\AndroidManifest.xml:24:5-40:19
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\3a8578458692a351e4e12714f1bbff62\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\3a8578458692a351e4e12714f1bbff62\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\5ed775b105d594399221bd53cd9ad4fc\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\5ed775b105d594399221bd53cd9ad4fc\AndroidManifest.xml:9:5-20
+MERGED from [android.arch.work:work-runtime:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\50160411cdd7d86ad07b28bb38f7a89e\AndroidManifest.xml:27:5-121:19
+MERGED from [android.arch.work:work-runtime:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\50160411cdd7d86ad07b28bb38f7a89e\AndroidManifest.xml:27:5-121:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0-alpha01] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\81e5e9b8dd24308d450ad4d6bec77cbf\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0-alpha01] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\81e5e9b8dd24308d450ad4d6bec77cbf\AndroidManifest.xml:22:5-23:19
+MERGED from [com.jakewharton.timber:timber:4.7.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\40b987524c16720d569f20821adb14c8\AndroidManifest.xml:7:5-20
+MERGED from [com.jakewharton.timber:timber:4.7.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\40b987524c16720d569f20821adb14c8\AndroidManifest.xml:7:5-20
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\12b7888e0677359cf45404e4a2e479fd\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\12b7888e0677359cf45404e4a2e479fd\AndroidManifest.xml:10:5-20
+MERGED from [androidx.room:room-runtime:2.1.0-alpha06] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\87b4ab456b64d29c35eb3556f9927789\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.room:room-runtime:2.1.0-alpha06] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\87b4ab456b64d29c35eb3556f9927789\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.2] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\eb15588ce890ecb6c9399a13d2e137a2\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.2] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\eb15588ce890ecb6c9399a13d2e137a2\AndroidManifest.xml:22:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0-alpha01] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\885de5a821175b1529c730a05a51f1fa\AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0-alpha01] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\885de5a821175b1529c730a05a51f1fa\AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\19072bcfa679512a1683c05e87a17005\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\19072bcfa679512a1683c05e87a17005\AndroidManifest.xml:22:5-23:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\4bd62f1fd958f2263dea1da97d4ae470\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\4bd62f1fd958f2263dea1da97d4ae470\AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.2] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\eb15588ce890ecb6c9399a13d2e137a2\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Esso\AndroidStudioProjects\DevBytes-starter\app\src\main\AndroidManifest.xml:30:9-35
+	android:label
+		ADDED from C:\Users\Esso\AndroidStudioProjects\DevBytes-starter\app\src\main\AndroidManifest.xml:28:9-41
+	tools:ignore
+		ADDED from C:\Users\Esso\AndroidStudioProjects\DevBytes-starter\app\src\main\AndroidManifest.xml:32:9-48
+	android:roundIcon
+		ADDED from C:\Users\Esso\AndroidStudioProjects\DevBytes-starter\app\src\main\AndroidManifest.xml:29:9-54
+	android:icon
+		ADDED from C:\Users\Esso\AndroidStudioProjects\DevBytes-starter\app\src\main\AndroidManifest.xml:27:9-43
+	android:allowBackup
+		ADDED from C:\Users\Esso\AndroidStudioProjects\DevBytes-starter\app\src\main\AndroidManifest.xml:26:9-35
+	android:theme
+		ADDED from C:\Users\Esso\AndroidStudioProjects\DevBytes-starter\app\src\main\AndroidManifest.xml:31:9-40
+	android:name
+		ADDED from C:\Users\Esso\AndroidStudioProjects\DevBytes-starter\app\src\main\AndroidManifest.xml:25:9-43
+activity#com.example.android.devbyteviewer.ui.DevByteActivity
+ADDED from C:\Users\Esso\AndroidStudioProjects\DevBytes-starter\app\src\main\AndroidManifest.xml:33:9-39:20
+	android:name
+		ADDED from C:\Users\Esso\AndroidStudioProjects\DevBytes-starter\app\src\main\AndroidManifest.xml:33:19-53
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Esso\AndroidStudioProjects\DevBytes-starter\app\src\main\AndroidManifest.xml:34:13-38:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Esso\AndroidStudioProjects\DevBytes-starter\app\src\main\AndroidManifest.xml:35:17-69
+	android:name
+		ADDED from C:\Users\Esso\AndroidStudioProjects\DevBytes-starter\app\src\main\AndroidManifest.xml:35:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Esso\AndroidStudioProjects\DevBytes-starter\app\src\main\AndroidManifest.xml:37:17-77
+	android:name
+		ADDED from C:\Users\Esso\AndroidStudioProjects\DevBytes-starter\app\src\main\AndroidManifest.xml:37:27-74
+uses-sdk
+INJECTED from C:\Users\Esso\AndroidStudioProjects\DevBytes-starter\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Esso\AndroidStudioProjects\DevBytes-starter\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Esso\AndroidStudioProjects\DevBytes-starter\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:3.4.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\f303c5c71259b708ea947317898b7553\AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-adapters:3.4.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\f303c5c71259b708ea947317898b7553\AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.4.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\3140de367bb39ffc9403597e75eae80b\AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.4.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\3140de367bb39ffc9403597e75eae80b\AndroidManifest.xml:22:5-44
+MERGED from [android.arch.navigation:navigation-ui-ktx:1.0.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\5ee6d5506c5bc6a437814c4395049850\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-ui-ktx:1.0.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\5ee6d5506c5bc6a437814c4395049850\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-ui:1.0.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\ed5081088c1c260d35d7cde9554c6726\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-ui:1.0.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\ed5081088c1c260d35d7cde9554c6726\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\3a8578458692a351e4e12714f1bbff62\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\3a8578458692a351e4e12714f1bbff62\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\00a4736446d917eaabb819a596314438\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\00a4736446d917eaabb819a596314438\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\baa1bce10082e76bdcf9fc111850a4a9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\baa1bce10082e76bdcf9fc111850a4a9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.0.2] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\fa37ab5b92cc443668fdd66563c6ebed\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.0.2] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\fa37ab5b92cc443668fdd66563c6ebed\AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\5ed775b105d594399221bd53cd9ad4fc\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\5ed775b105d594399221bd53cd9ad4fc\AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.navigation:navigation-fragment-ktx:1.0.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\53632fabe40f393f9664514da9ea680e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-fragment-ktx:1.0.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\53632fabe40f393f9664514da9ea680e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.work:work-runtime-ktx:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\7d112e5cd87c344d2bd5175adf768d66\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.work:work-runtime-ktx:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\7d112e5cd87c344d2bd5175adf768d66\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.work:work-runtime:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\50160411cdd7d86ad07b28bb38f7a89e\AndroidManifest.xml:21:5-44
+MERGED from [android.arch.work:work-runtime:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\50160411cdd7d86ad07b28bb38f7a89e\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0-alpha01] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\81e5e9b8dd24308d450ad4d6bec77cbf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0-alpha01] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\81e5e9b8dd24308d450ad4d6bec77cbf\AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton.timber:timber:4.7.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\40b987524c16720d569f20821adb14c8\AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton.timber:timber:4.7.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\40b987524c16720d569f20821adb14c8\AndroidManifest.xml:5:5-43
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\12b7888e0677359cf45404e4a2e479fd\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\12b7888e0677359cf45404e4a2e479fd\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.room:room-runtime:2.1.0-alpha06] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\87b4ab456b64d29c35eb3556f9927789\AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-runtime:2.1.0-alpha06] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\87b4ab456b64d29c35eb3556f9927789\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-fragment:1.0.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\574945e36111b8f05791306780096da1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-fragment:1.0.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\574945e36111b8f05791306780096da1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\3820c6f1f25332bd00d6af4740b5cbe9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\3820c6f1f25332bd00d6af4740b5cbe9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\e4dc37f1288569cbea4891beb1454deb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\e4dc37f1288569cbea4891beb1454deb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\66848805e477cc519e3551aa92a2005d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\66848805e477cc519e3551aa92a2005d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\08b2b9fbba00fcf90b75ed4b95fa5f8e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\08b2b9fbba00fcf90b75ed4b95fa5f8e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime-ktx:1.0.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\145139f8fbc08a7ae166052ecb500683\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime-ktx:1.0.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\145139f8fbc08a7ae166052ecb500683\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime:1.0.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\8b924087a1c4ab8ba37affc93a6b934b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime:1.0.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\8b924087a1c4ab8ba37affc93a6b934b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\7adf5df5b94ee01e50b3244cfed6b37b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\7adf5df5b94ee01e50b3244cfed6b37b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\e60e97b7970a7d45a253e613dbb148b3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\e60e97b7970a7d45a253e613dbb148b3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\f47e9f51d57027c0368e4de480e4cb52\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\f47e9f51d57027c0368e4de480e4cb52\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\18738a30137560283a730cfe93279911\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\18738a30137560283a730cfe93279911\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\5ba6bc773637027a51231cc5d28a8fcf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\5ba6bc773637027a51231cc5d28a8fcf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\a4c3c95d93ff4cb8d9e71bafc4cdc8ad\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\a4c3c95d93ff4cb8d9e71bafc4cdc8ad\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\7d8d2f778e27c4071c1019e3033fa9f6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\7d8d2f778e27c4071c1019e3033fa9f6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\e9de7e899e27b2ad7abe3d5e23aa6e7d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\e9de7e899e27b2ad7abe3d5e23aa6e7d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\f1696d8afc1d2f557d143a95f91328a0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\f1696d8afc1d2f557d143a95f91328a0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\3f85075d45c61cca17f846bb2987bd2a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\3f85075d45c61cca17f846bb2987bd2a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\608ce771105e6e0f34251032f7f9b679\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\608ce771105e6e0f34251032f7f9b679\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\cfe5e1993f49c434ed3aa6cb48d022b0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\cfe5e1993f49c434ed3aa6cb48d022b0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common-ktx:1.0.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\6c4c6a97806a7da69e92de33f49a2d78\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common-ktx:1.0.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\6c4c6a97806a7da69e92de33f49a2d78\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common:1.0.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\afa454075b336fd14fdb4e9eb0138a70\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common:1.0.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\afa454075b336fd14fdb4e9eb0138a70\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.2] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\eb15588ce890ecb6c9399a13d2e137a2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.2] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\eb15588ce890ecb6c9399a13d2e137a2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0-alpha01] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\885de5a821175b1529c730a05a51f1fa\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0-alpha01] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\885de5a821175b1529c730a05a51f1fa\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0-alpha01] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\257663e02b55794aad9d58e6565dfe50\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0-alpha01] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\257663e02b55794aad9d58e6565dfe50\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0-alpha01] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\a7a58c8bf74c13bebf70ca8faf8c9f26\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0-alpha01] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\a7a58c8bf74c13bebf70ca8faf8c9f26\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\19072bcfa679512a1683c05e87a17005\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\19072bcfa679512a1683c05e87a17005\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\573de0b4f077e27e867f45f8bad656dc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\573de0b4f077e27e867f45f8bad656dc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\9a006cea70397e85e430a6a7b69703a0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\9a006cea70397e85e430a6a7b69703a0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0-alpha01] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\d36e4496278b896815ad8fe7047ffc68\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0-alpha01] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\d36e4496278b896815ad8fe7047ffc68\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0-alpha01] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\c0f55894b3c9816009432b9ea5beae12\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0-alpha01] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\c0f55894b3c9816009432b9ea5beae12\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.1.0-beta01] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\6a3bb9727ee4c8d5d2684a8297a6b80d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.1.0-beta01] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\6a3bb9727ee4c8d5d2684a8297a6b80d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0-alpha01] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\b5c2cc72b4c7ec4d15df99860c4ef35d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0-alpha01] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\b5c2cc72b4c7ec4d15df99860c4ef35d\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\4bd62f1fd958f2263dea1da97d4ae470\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\4bd62f1fd958f2263dea1da97d4ae470\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\16764b6ec73d44905464e53152d0d783\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\16764b6ec73d44905464e53152d0d783\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\d58df7885f837375957181b320c4cd79\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\d58df7885f837375957181b320c4cd79\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\34625bfaa4ec2d383f24d3396e1b645c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\34625bfaa4ec2d383f24d3396e1b645c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\91d6d05445d23bdfe96b458945dca174\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\91d6d05445d23bdfe96b458945dca174\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\32776048f653bd6cefcfdfe5f1f2f973\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\32776048f653bd6cefcfdfe5f1f2f973\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\437cfc999f52d3d41c26bfa6c88d3a39\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\437cfc999f52d3d41c26bfa6c88d3a39\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Esso\AndroidStudioProjects\DevBytes-starter\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Esso\AndroidStudioProjects\DevBytes-starter\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Esso\AndroidStudioProjects\DevBytes-starter\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Esso\AndroidStudioProjects\DevBytes-starter\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Esso\AndroidStudioProjects\DevBytes-starter\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Esso\AndroidStudioProjects\DevBytes-starter\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Esso\AndroidStudioProjects\DevBytes-starter\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Esso\AndroidStudioProjects\DevBytes-starter\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\50160411cdd7d86ad07b28bb38f7a89e\AndroidManifest.xml:23:5-68
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\50160411cdd7d86ad07b28bb38f7a89e\AndroidManifest.xml:23:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\50160411cdd7d86ad07b28bb38f7a89e\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\50160411cdd7d86ad07b28bb38f7a89e\AndroidManifest.xml:24:22-76
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\50160411cdd7d86ad07b28bb38f7a89e\AndroidManifest.xml:25:5-81
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\50160411cdd7d86ad07b28bb38f7a89e\AndroidManifest.xml:25:22-78
+provider#androidx.work.impl.WorkManagerInitializer
+ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\50160411cdd7d86ad07b28bb38f7a89e\AndroidManifest.xml:28:9-34:35
+	android:authorities
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\50160411cdd7d86ad07b28bb38f7a89e\AndroidManifest.xml:30:13-68
+	android:multiprocess
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\50160411cdd7d86ad07b28bb38f7a89e\AndroidManifest.xml:33:13-40
+	android:exported
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\50160411cdd7d86ad07b28bb38f7a89e\AndroidManifest.xml:32:13-37
+	tools:targetApi
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\50160411cdd7d86ad07b28bb38f7a89e\AndroidManifest.xml:34:13-32
+	android:directBootAware
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\50160411cdd7d86ad07b28bb38f7a89e\AndroidManifest.xml:31:13-44
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\50160411cdd7d86ad07b28bb38f7a89e\AndroidManifest.xml:29:13-69
+service#androidx.work.impl.background.systemalarm.SystemAlarmService
+ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\50160411cdd7d86ad07b28bb38f7a89e\AndroidManifest.xml:36:9-41:35
+	android:enabled
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\50160411cdd7d86ad07b28bb38f7a89e\AndroidManifest.xml:39:13-72
+	android:exported
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\50160411cdd7d86ad07b28bb38f7a89e\AndroidManifest.xml:40:13-37
+	tools:targetApi
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\50160411cdd7d86ad07b28bb38f7a89e\AndroidManifest.xml:41:13-32
+	android:directBootAware
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\50160411cdd7d86ad07b28bb38f7a89e\AndroidManifest.xml:38:13-44
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\50160411cdd7d86ad07b28bb38f7a89e\AndroidManifest.xml:37:13-88
+service#androidx.work.impl.background.systemjob.SystemJobService
+ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\50160411cdd7d86ad07b28bb38f7a89e\AndroidManifest.xml:42:9-48:35
+	android:enabled
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\50160411cdd7d86ad07b28bb38f7a89e\AndroidManifest.xml:45:13-70
+	android:exported
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\50160411cdd7d86ad07b28bb38f7a89e\AndroidManifest.xml:46:13-36
+	android:permission
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\50160411cdd7d86ad07b28bb38f7a89e\AndroidManifest.xml:47:13-69
+	tools:targetApi
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\50160411cdd7d86ad07b28bb38f7a89e\AndroidManifest.xml:48:13-32
+	android:directBootAware
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\50160411cdd7d86ad07b28bb38f7a89e\AndroidManifest.xml:44:13-44
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\50160411cdd7d86ad07b28bb38f7a89e\AndroidManifest.xml:43:13-84
+receiver#androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver
+ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\50160411cdd7d86ad07b28bb38f7a89e\AndroidManifest.xml:50:9-55:35
+	android:enabled
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\50160411cdd7d86ad07b28bb38f7a89e\AndroidManifest.xml:53:13-35
+	android:exported
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\50160411cdd7d86ad07b28bb38f7a89e\AndroidManifest.xml:54:13-37
+	tools:targetApi
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\50160411cdd7d86ad07b28bb38f7a89e\AndroidManifest.xml:55:13-32
+	android:directBootAware
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\50160411cdd7d86ad07b28bb38f7a89e\AndroidManifest.xml:52:13-44
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\50160411cdd7d86ad07b28bb38f7a89e\AndroidManifest.xml:51:13-88
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy
+ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\50160411cdd7d86ad07b28bb38f7a89e\AndroidManifest.xml:56:9-66:20
+	android:enabled
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\50160411cdd7d86ad07b28bb38f7a89e\AndroidManifest.xml:59:13-36
+	android:exported
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\50160411cdd7d86ad07b28bb38f7a89e\AndroidManifest.xml:60:13-37
+	tools:targetApi
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\50160411cdd7d86ad07b28bb38f7a89e\AndroidManifest.xml:61:13-32
+	android:directBootAware
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\50160411cdd7d86ad07b28bb38f7a89e\AndroidManifest.xml:58:13-44
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\50160411cdd7d86ad07b28bb38f7a89e\AndroidManifest.xml:57:13-106
+intent-filter#action:name:android.intent.action.ACTION_POWER_CONNECTED+action:name:android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\50160411cdd7d86ad07b28bb38f7a89e\AndroidManifest.xml:62:13-65:29
+action#android.intent.action.ACTION_POWER_CONNECTED
+ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\50160411cdd7d86ad07b28bb38f7a89e\AndroidManifest.xml:63:17-87
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\50160411cdd7d86ad07b28bb38f7a89e\AndroidManifest.xml:63:25-84
+action#android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\50160411cdd7d86ad07b28bb38f7a89e\AndroidManifest.xml:64:17-90
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\50160411cdd7d86ad07b28bb38f7a89e\AndroidManifest.xml:64:25-87
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy
+ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\50160411cdd7d86ad07b28bb38f7a89e\AndroidManifest.xml:67:9-77:20
+	android:enabled
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\50160411cdd7d86ad07b28bb38f7a89e\AndroidManifest.xml:70:13-36
+	android:exported
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\50160411cdd7d86ad07b28bb38f7a89e\AndroidManifest.xml:71:13-37
+	tools:targetApi
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\50160411cdd7d86ad07b28bb38f7a89e\AndroidManifest.xml:72:13-32
+	android:directBootAware
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\50160411cdd7d86ad07b28bb38f7a89e\AndroidManifest.xml:69:13-44
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\50160411cdd7d86ad07b28bb38f7a89e\AndroidManifest.xml:68:13-104
+intent-filter#action:name:android.intent.action.BATTERY_LOW+action:name:android.intent.action.BATTERY_OKAY
+ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\50160411cdd7d86ad07b28bb38f7a89e\AndroidManifest.xml:73:13-76:29
+action#android.intent.action.BATTERY_OKAY
+ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\50160411cdd7d86ad07b28bb38f7a89e\AndroidManifest.xml:74:17-77
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\50160411cdd7d86ad07b28bb38f7a89e\AndroidManifest.xml:74:25-74
+action#android.intent.action.BATTERY_LOW
+ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\50160411cdd7d86ad07b28bb38f7a89e\AndroidManifest.xml:75:17-76
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\50160411cdd7d86ad07b28bb38f7a89e\AndroidManifest.xml:75:25-73
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy
+ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\50160411cdd7d86ad07b28bb38f7a89e\AndroidManifest.xml:78:9-88:20
+	android:enabled
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\50160411cdd7d86ad07b28bb38f7a89e\AndroidManifest.xml:81:13-36
+	android:exported
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\50160411cdd7d86ad07b28bb38f7a89e\AndroidManifest.xml:82:13-37
+	tools:targetApi
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\50160411cdd7d86ad07b28bb38f7a89e\AndroidManifest.xml:83:13-32
+	android:directBootAware
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\50160411cdd7d86ad07b28bb38f7a89e\AndroidManifest.xml:80:13-44
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\50160411cdd7d86ad07b28bb38f7a89e\AndroidManifest.xml:79:13-104
+intent-filter#action:name:android.intent.action.DEVICE_STORAGE_LOW+action:name:android.intent.action.DEVICE_STORAGE_OK
+ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\50160411cdd7d86ad07b28bb38f7a89e\AndroidManifest.xml:84:13-87:29
+action#android.intent.action.DEVICE_STORAGE_LOW
+ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\50160411cdd7d86ad07b28bb38f7a89e\AndroidManifest.xml:85:17-83
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\50160411cdd7d86ad07b28bb38f7a89e\AndroidManifest.xml:85:25-80
+action#android.intent.action.DEVICE_STORAGE_OK
+ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\50160411cdd7d86ad07b28bb38f7a89e\AndroidManifest.xml:86:17-82
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\50160411cdd7d86ad07b28bb38f7a89e\AndroidManifest.xml:86:25-79
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy
+ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\50160411cdd7d86ad07b28bb38f7a89e\AndroidManifest.xml:89:9-98:20
+	android:enabled
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\50160411cdd7d86ad07b28bb38f7a89e\AndroidManifest.xml:92:13-36
+	android:exported
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\50160411cdd7d86ad07b28bb38f7a89e\AndroidManifest.xml:93:13-37
+	tools:targetApi
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\50160411cdd7d86ad07b28bb38f7a89e\AndroidManifest.xml:94:13-32
+	android:directBootAware
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\50160411cdd7d86ad07b28bb38f7a89e\AndroidManifest.xml:91:13-44
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\50160411cdd7d86ad07b28bb38f7a89e\AndroidManifest.xml:90:13-103
+intent-filter#action:name:android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\50160411cdd7d86ad07b28bb38f7a89e\AndroidManifest.xml:95:13-97:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\50160411cdd7d86ad07b28bb38f7a89e\AndroidManifest.xml:96:17-79
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\50160411cdd7d86ad07b28bb38f7a89e\AndroidManifest.xml:96:25-76
+receiver#androidx.work.impl.background.systemalarm.RescheduleReceiver
+ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\50160411cdd7d86ad07b28bb38f7a89e\AndroidManifest.xml:99:9-110:20
+	android:enabled
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\50160411cdd7d86ad07b28bb38f7a89e\AndroidManifest.xml:102:13-36
+	android:exported
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\50160411cdd7d86ad07b28bb38f7a89e\AndroidManifest.xml:103:13-37
+	tools:targetApi
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\50160411cdd7d86ad07b28bb38f7a89e\AndroidManifest.xml:104:13-32
+	android:directBootAware
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\50160411cdd7d86ad07b28bb38f7a89e\AndroidManifest.xml:101:13-44
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\50160411cdd7d86ad07b28bb38f7a89e\AndroidManifest.xml:100:13-88
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.TIMEZONE_CHANGED+action:name:android.intent.action.TIME_SET
+ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\50160411cdd7d86ad07b28bb38f7a89e\AndroidManifest.xml:105:13-109:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\50160411cdd7d86ad07b28bb38f7a89e\AndroidManifest.xml:106:17-79
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\50160411cdd7d86ad07b28bb38f7a89e\AndroidManifest.xml:106:25-76
+action#android.intent.action.TIME_SET
+ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\50160411cdd7d86ad07b28bb38f7a89e\AndroidManifest.xml:107:17-73
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\50160411cdd7d86ad07b28bb38f7a89e\AndroidManifest.xml:107:25-70
+action#android.intent.action.TIMEZONE_CHANGED
+ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\50160411cdd7d86ad07b28bb38f7a89e\AndroidManifest.xml:108:17-81
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\50160411cdd7d86ad07b28bb38f7a89e\AndroidManifest.xml:108:25-78
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver
+ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\50160411cdd7d86ad07b28bb38f7a89e\AndroidManifest.xml:111:9-120:20
+	android:enabled
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\50160411cdd7d86ad07b28bb38f7a89e\AndroidManifest.xml:114:13-72
+	android:exported
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\50160411cdd7d86ad07b28bb38f7a89e\AndroidManifest.xml:115:13-37
+	tools:targetApi
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\50160411cdd7d86ad07b28bb38f7a89e\AndroidManifest.xml:116:13-32
+	android:directBootAware
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\50160411cdd7d86ad07b28bb38f7a89e\AndroidManifest.xml:113:13-44
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\50160411cdd7d86ad07b28bb38f7a89e\AndroidManifest.xml:112:13-99
+intent-filter#action:name:androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\50160411cdd7d86ad07b28bb38f7a89e\AndroidManifest.xml:117:13-119:29
+action#androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\50160411cdd7d86ad07b28bb38f7a89e\AndroidManifest.xml:118:17-98
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\50160411cdd7d86ad07b28bb38f7a89e\AndroidManifest.xml:118:25-95
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.1.0-alpha06] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\87b4ab456b64d29c35eb3556f9927789\AndroidManifest.xml:23:9-25:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.1.0-alpha06] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\87b4ab456b64d29c35eb3556f9927789\AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [androidx.room:room-runtime:2.1.0-alpha06] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\87b4ab456b64d29c35eb3556f9927789\AndroidManifest.xml:24:13-74
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.2.0-alpha01] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\885de5a821175b1529c730a05a51f1fa\AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0-alpha01] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\885de5a821175b1529c730a05a51f1fa\AndroidManifest.xml:25:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0-alpha01] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\885de5a821175b1529c730a05a51f1fa\AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0-alpha01] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\885de5a821175b1529c730a05a51f1fa\AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0-alpha01] C:\Users\Esso\.gradle\caches\transforms-2\files-2.1\885de5a821175b1529c730a05a51f1fa\AndroidManifest.xml:24:13-79
